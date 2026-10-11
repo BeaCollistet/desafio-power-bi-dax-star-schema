@@ -4,7 +4,7 @@ Projeto prático do desafio da DIO. A partir da tabela única **Financial Sample
 
 ## 🗺️ Esquema em estrela
 
-![Esquema em estrela](esquema-estrela.png)
+![Esquema em estrela](esquema-estrela)
 
 A tabela fato `F_Vendas` fica no centro e se liga às dimensões. A `financials_origem` fica oculta e sem relacionamentos (é só o backup dos dados originais).
 
@@ -94,7 +94,7 @@ A `financials_origem` ficou **sem relacionamentos** e **oculta**. O Power BI cri
 
 ## 🧠 O que aprendi
 
-[Escreva 2 ou 3 frases com suas palavras. Por exemplo: como separar uma tabela única em fato e dimensões, como criar um calendário com DAX e como conferir os relacionamentos.]
+Aprendi a como separar uma tabela única em fato e dimensões, como criar um calendário com DAX e como conferir os relacionamentos.
 
 ## 🔗 Referências
 
