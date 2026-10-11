@@ -4,7 +4,7 @@ Projeto prático do desafio da DIO. A partir da tabela única **Financial Sample
 
 ## 🗺️ Esquema em estrela
 
-![Esquema em estrela](esquema-estrela)
+![Esquema em estrela](esquema-estrela.jpeg)
 
 A tabela fato `F_Vendas` fica no centro e se liga às dimensões. A `financials_origem` fica oculta e sem relacionamentos (é só o backup dos dados originais).
 
